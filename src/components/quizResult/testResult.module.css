@@ -1,0 +1,19 @@
+.results {
+    color:#fff;
+    font-size:42px;
+}
+
+.resultsContainer {
+    text-align: center;
+}
+
+.repeatButton {
+    width: 15%;
+    border-radius:10%;
+    padding: 10px 24px;
+    text-align: center;
+    border-radius: 4px;
+    font-size:20px;
+    margin-top:20px;
+    cursor: pointer;
+}

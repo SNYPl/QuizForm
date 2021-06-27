@@ -1,0 +1,16 @@
+.test-form__name {
+  margin: 0 auto;
+  margin-bottom: 80px;
+}
+
+.test-form__name h2 {
+  text-align: center;
+  color: #fff;
+}
+
+.main-form_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

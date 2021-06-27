@@ -1,0 +1,26 @@
+.questionParagraph {
+   
+    color:#fff;
+    text-align: center;
+    font-size:21px;
+    padding:0 10px;
+}
+
+.questionContainer  {
+    border-bottom: 1px solid #fff;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputContainer {
+    margin: 0 0 5px 50px;
+}
+
+.questionInputLabel {
+    color:#fff;
+}
+
+.inpuItem {
+    margin-bottom:5px;
+}
